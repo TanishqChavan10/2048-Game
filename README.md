@@ -12,6 +12,22 @@ This 2048 game is a clone of the classic sliding puzzle game where you combine n
 - Smooth animations
 - Particle effects
 
+## Screenshots
+
+### Classic Theme
+<!-- Add screenshot of classic theme here -->
+![Classic Theme](screenshots/classic_theme.png)
+
+### Dark Theme
+<!-- Add screenshot of dark theme here -->
+![Dark Theme](screenshots/dark_theme.png)
+
+### Other Themes
+<!-- Add screenshots of additional themes here -->
+![Ocean Theme](screenshots/ocean_theme.png)
+![Violet Theme](screenshots/violet_theme.png)
+![Forest Theme](screenshots/forest_theme.png)
+
 ## Installation
 
 ### Prerequisites
