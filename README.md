@@ -16,8 +16,8 @@ This 2048 game is a clone of the classic sliding puzzle game where you combine n
 
 ### Classic Theme
 <!-- Add screenshot of classic theme here -->
-![Classic Theme](![image](https://github.com/user-attachments/assets/7deff709-be13-4627-9fd7-158085f98d75)
-)
+![Classic Theme](![Screenshot 2025-04-18 214528](https://github.com/user-attachments/assets/6b2aeff5-5e48-4eb2-bf4b-9b52e07a1302)
+
 
 ## Installation
 
